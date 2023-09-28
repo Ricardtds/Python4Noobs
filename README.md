@@ -15,4 +15,6 @@ Elaborando um TCC sobre como o Machine Learning tem contribuido na Mecânica do 
 
 ## Sumário
 * [Introdução](00_introducao/)
-    * 
+
+# Repositório temporariamente pausado
+  Estudando pela Alura.
